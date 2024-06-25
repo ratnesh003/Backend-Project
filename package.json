@@ -1,0 +1,22 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "The Complex project in which we handel multiple user with there videos, comments and tweets",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "api",
+    "social-media"
+  ],
+  "author": "Ratnesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
+  }
+}
